@@ -1,0 +1,117 @@
+Mask R-CNN
+https://t.co/YIEqq3Qrm4[SSD: Single Shot MultiBox Detector]
+https://t.co/z47d1nlT0vPR-023: YOLO9000: Better, Faster, Stronger
+
+https://t.co/h2uP4dG1BK https://t.co/YuwhSdNGn4yolo  You only look once: Unified, real-time object detection
+https://t.co/jYFPogopxS https://t.co/JrtZv8R5TaSingle Shot MultiBox Detector 리뷰https://t.co/Fp9aB5r0fYDeep Object Detectors
+https://t.co/1sZyOKQZQPNearest Neighbor https://t.co/xmX3jzN8lthttps://t.co/Y1KyvSohpW https://t.co/77daumjveMCollision avoidance system
+https://t.co/C9P0HaQWiIObject detection: speed and accuracy comparison (Faster R-CNN, R-FCN, SSD, FPN, RetinaNet and YOLOv3)
+https://t.co/iecuxGiW5YJetson camera error
+
+https://t.co/qMLjZqrv64Nvidia Enters ADAS Market via AI-Based Xavier
+https://t.co/dB7XtnVTWc엔비디아, 세계 최강 SoC 엔비디아 드라이브 자비에로 획기적인 인공지능 역량 지원 https://t.co/5jSKnGnZjaAUTOSAR와 Linux를 통합하는 방법
+https://t.co/cDLE29Y26i인공지능 제어 차량의 기능 안전성: ISO 26262가
+아니라면 대안은?
+https://t.co/KdkmPwTVfrRT @WhiteLotusPatal: TensorFlow 모델을 저장하고 불러오기 (save and restore)
+
+https://t.co/GyzxuppD87 https://t.co/YvIsbVmrmNObject Detection with Tensorflow API 전에 올린 거 같은데 한번 더
+
+https://t.co/i1JI8x1T2Z자율주행차 신호등 인식
+https://t.co/RHLhpS2JkhOpenCV를 이용하여 특정색 (빨간색) 검출
+https://t.co/AU8ybdcZ9zAdaptive Cruise Control
+https://t.co/dB9daCsl47
+이게 더 재미있는 자료인듯How does Cruise Control system in car works?
+https://t.co/sY7zuwLTl8
+2년 전 글인데 그림하고 설명이 아기자기hyundai forward collision-avoidance assist
+https://t.co/2IFiDXRtkO https://t.co/Cvr7053F0xBetween speeds of 75 – 160 km/h, when activated, FCA will slow down the vehicle in order to reduce the severity of the collision.FCA is active above speeds of approximately 8km/h, and will attempt to bring the vehicle to a complete stop if acti… https://t.co/8NKXXAPsycAdditionally, Forward Collision-Avoidance Assist (FCA) works in conjunction with FCW to automatically apply the veh… https://t.co/734D5yA0jdFCW is active above speeds of 8km/h, up to speeds of 64km/h (pedestrians) and 160km/h (vehicles).If a potential collision is detected, the systems Forward Collision Warning (FCW) function will sound an audible wa… https://t.co/W0Tilh4AaOThe Forward Collision-Avoidance Assist (FCA) system, when active, utilises the front radar sensor and windshield mo… https://t.co/qzxLChlwR7Forward Collision-Avoidance Assist (FCA)
+https://t.co/7mciG4BigHto detect car in the street https://t.co/pFbWKwmRALMIT Human-Centered Autonomous Vehicle
+https://t.co/sUO2REodpUData Augmentation Techniques in CNN using Tensorflow
+
+https://t.co/rJGnQFWO9wTop 10 things you may not know about C-V2X [video]
+
+https://t.co/HvQjROvw5L안테나 adc포함 5불
+Mcu 7불 정도
+
+데이터의 양 적게 메모리 적게
+
+=&gt;100불 300불자동차 24G 를 쓰는 이유?
+ bandwidth가 77이면 resolution 이 30cm?레이더의 dimension 거리 해상도 속도 고각 방위각Radar : Radio Detection &amp; Range?https://t.co/BrtsxtxFmqhttps://t.co/jsINasx7ahhttps://t.co/Qllr3ONlRf운전자 없는 국내 최초 자율주행차 '제로셔틀' 순항 (출처 : 연합뉴스TV | 네이버 뉴스) https://t.co/lJPrwaWApNAEB
+Autonomous Emergency Braking
+자동 긴급제동 시스템
+
+https://t.co/fgMBY28psgRT @gstsdn: The code for Self-Attention GAN is now available here https://t.co/RXfvdwBSk1 https://t.co/1PR9CyhCVpRT @NVIDIAAIDev: New Developer Blog: Mixed Precision Training for #NLP and Speech Recognition with OpenSeq2Seq - an open-source, @TensorFlo…Object Detection with Tensorflow API
+https://t.co/i1JI8x1T2Z[AEB] 현대자동차 첨단 안전 기능 자동긴급제동 시스템 [Hyundai Autonomous Emergency Braking]
+https://t.co/YeqWviOlIZhttps://t.co/O9OaOs1kGy각 인스턴스의 크기를 확인하기 위해 SDP (scale-dependent pooling) 를 사용합니다. 이렇게함으로써 크기가 다른 인스턴스를 정보 손실없이 적절히 표현할 수 있습니다.
+SDP : Fast… https://t.co/xQbEFy2Y2o이 논문에서는 ILSVRC2012에서 미리 훈련 된 VGG-16 아키텍처 [34]의 출력을 크기에 따라 각 객체 인스턴스를 표현하는 데 적응적으로(adaptively) 사용하였다.표현 단계는 피쳐 추출 방법을 사용하여 객체 인스턴스 (예를 들어, 각 객체의 경계 상자)를 나타내는 것을 의미한다.
+각 인스턴스 xi는 상태 xi = [x, y, w, h]를 가지며, 여기서 x와 y는
+왼… https://t.co/916DC5pqyvMultiple Objects Fusion Tracker Using a Matching
+Network for Adaptively Represented Instance Pairs
+아티클에서우울증이 도지는 걸 보니 다시 공부할 때가 된 듯Efficient Neural Architecture Search via Parameter Sharing
+Authors' implementation of "Efficient Neural Architectur… https://t.co/GBPt7jbZGF논문
+R-FCN: Object Detection via
+Region-based Fully Convolutional Networks
+https://t.co/KAt9VxxtcTR-FCN: Object Detection via Region-based Fully Convolutional Networks
+https://t.co/GNT4eBsFTepaper : Efficient Neural Architecture Search via Parameter Sharing
+https://t.co/o7KPWlTi4sEfficient Neural Architecture Search via Parameter Sharing
+https://t.co/oOTFDFIR2KENAS이라는 (Eifficient Neural Architecture Search) neural network의 architecture를 자동으로 찾아주는 방법을 제안하는 데, policy gradient… https://t.co/0KQOq8W5VzLearning Transferable Architectures for Scalable Image Recognition
+https://t.co/AjV57hvKW4제품 결함의 판단이 애매하면 소프트레이블이라는 걸 쓰기도 한다구????ENAS(Efficient Neural Architecture Search via Parameter Sharing)
+https://t.co/sItRdWMwHZ수아랩, 인공지능 무인검사 소프트웨어 ‘수아킷(SuaKIT)’ 출시
+https://t.co/A5kTBrKbhbRT @NVIDIAAIDev: Can AI predict where a vehicle will go at an intersection? Researchers from Honda, @UMich  and @IndianaUniv recently devel…RT @AndrewYNg: Just finished writing final few chapters of Machine Learning Yearning book draft, on how to organize and strategize your ML…RT @AndrewYNg: Deep Learning is getting really good on Big Data/millions of images. But Small Data is important too. Am seeing many excitin…RT @NVIDIAAIDev: This song was made by AI!  Learn how startup @AmadeusCode is using @NVIDIA #GPUs to train their #deeplearning-based songwr…This AI Drone Can Be Controlled by Your Eyes
+https://t.co/s6ejAYHgwfLeader in AI Computing
+https://t.co/m4OLJOcrbO딥러닝 용어 사전
+https://t.co/k9H0MJwyWnhttps://t.co/LXqBhNSpUY 사이트 번역인듯NVIDIA AGX Systems 갖고 싶어서 눈물난다. 얼마일까 ㅠㅠ
+
+https://t.co/32IvodU4Px텐서플로 사이트 -  단어들의 벡터 표현
+
+https://t.co/TN4r3CW83z나름 목적이 있어서 살아왔는데 근래에는 많은 것들이 그 실체를 모르겠다는 생각이다. 눈에 목표가 보이지 않고 숨으니 심장이 멎을 것 처럼 힘들다. 그래도 내가 멈추면 내가 갖고 있는 모든 것들이 멈춰버린다. 적어도 살아있을 때는 그러지 않아야겠다.세상은 즐기면서 사는것이 아니라는 생각이 든다.
+피땀눈물 외에 달콤한 결과를 가져오는 것은 없고
+혹여 달콤한 결과를 받아 쥐었다고 할지라도
+거기에 취해 편히 앉아보는 순간 추락하는게 인생이다.나를 무시하는 사회와 쟁쟁한 인물들 앞에 당당히 서고 심지어 그 위에 우뚝 서기까지
+얼마나 피나는 노력으로 성과를 만들었을까. 정말 존경하고 싶은 것을 떠나 사실 이 사회에서 기적을 만든 것이 아닌가 싶다.3. 오토인코더의 파생형
+* Stacked Auto Encoder
+오토인코더를 다층으로 만든 모델
+* Sparese Auto Encoder
+히든 레이어 부분이 출력과 입력보다 큰 모델
+* Denoising… https://t.co/mEylFFREfFMSE(Mean Squarded Error)2. 오토인코더의 학습
+
+1. 인풋과 히든 레이어의 가중치를 계산해 sigmoid 함수를 통과시킨다.
+1의 결과물과 출력 레이어의 가중치를 계산해 sigmoid 함수를 통과시킨다.
+2의 값을 이용해 MSE를… https://t.co/qcg5GEahm7인풋레이어에서 히든 레이어로 인코딩 되는 과정에서 정보가 압축되는 이와 같은 성질을 이용하여 오토인코더를 Feature extracter로 사용하기도 한다.이때 인코딩 과정에서 입력이 압축되는데 입력값이 압축됨으로써 입력에서 출력으로의 손실없는 완벽한 복사는 일어날 수 없으며 이러한 압축 과정의 일환으로 입력이 무작위적이 아니라는 가정 하에 히든 유닛이 입력의 피처를 학습하게 된다.이 구조를 보면 입력을 히든 레이어로 인코딩하고 인코딩된 히든 유닛을 디코딩해서 입력과 사이즈가 같은 출력을 한다.1. 오토인코더란 
+오토인코더는 출력값을 입력값의 근사로 하는 함수를 학습하는 비지도 학습이다.
+
+오토인코더는 인코더와 같이 입력을 압축하고, 그것을 재구성한다. 오토인코더의 구조는 다음과 같다. https://t.co/oa3AiQgrCV[머신러닝]오토인코더(Autoencoder)
+
+https://t.co/gqyBlnu5GIAutoencoder 의 Overfitting(과적합) 문제를 해결하기 위한 Regularization 방법
+
+[Sparse Autoencoder]
+간단히 말하자면 hidden node 중 매번 일부 nod… https://t.co/ztTMKuccR7[Hidden Layer 의 갯수가 많을수록 좋을까?]
+hidden node 의 갯수를 input 갯수보다 늘리면 맨상단과 맨아래 있는 node가 사용되지 않고, 가운데 5개의 node 가 input 을 o… https://t.co/PVn1YY10E98. 전체 데이터셋을 한번 다 학습시켰다면, epoch 단위로 몇번 더 학습한다.7. step 1~6 을 반복하면서 파라메터들을 업데이트한다.
+ (만약 vector 하나씩 넣으면서 update 시키면 Reinforcement Learning 이고, 여러 batch 씩 한꺼번에 넣으면서 학습시키면 Batch Learning6. back-propagation 을 이용해, error 의 값이 역전파되고, W,b 값들이 tuning 된다.
+ (learning rate 에 따라 학습 정도가 달라진다.4. z 가 output vector y로 decoding 된다. y는 x vector 와 같은 차원을 가진다.
+ (y가 x의 복사본이 되게 하는 것이 학습의 목적이다.)
+
+5. reconstruction… https://t.co/M6tVocpl2h2. input vector(user 단위) 가 하나 network 로 들어간다.
+
+3. input vector x_u 는 vector z 로 인코딩된다.x 에서 z 로 갈 때 mapping function… https://t.co/Yqj9qTA64n[Autoencoder 의 Training]
+1. input vector x_u = (r1,r2,.., ri,…,rm) 은 user u 의 m개의 영화에 대한 rating이다.
+(rating은 1~5 사이의 값이고, rating 없으면 0이다.)Autoencoder 의 Bias
+Bias 를 추가할 수도 있고, 그림으론 이렇게 표현한다. https://t.co/XmlXpriUPy주로 activation function 으로 tanh 를 사용한다. (hidden 직전과 visible 직전에)
+output 값에 softmax 를 사용한다. https://t.co/cIpAvcdMx8Autoencoder  목적
+
+**1.feature detection **
+학습된 autoencoder에서는 coding layer 가 input 의 중요한 feature 들을 나타내게된다.
+
+2.recom… https://t.co/wuxp0bQJ0I=&gt; self supervised learning 에 가깝다.
+
+자기 자신을 target(label) 값으로 사용하기 때문이다.
+
+가운데 초록색 노드들(Hidden nodes) 을 coding layer,… https://t.co/gOR5CE8GiKAuto Encoder 에 대하여 : Auto Encoder 의 개념과 사용법, 그리고 Regularization
+
+https://t.co/H0dnpD7YduLSTM 다이어그램 정리 https://t.co/FG4BqaeHlI마지막 단계. 출력값 결정.
+이 출력값은 3 cell state (필터링된) 버전. 어떤 출력값을 출력할지는 sigmoid 레이어를 돌릴것이다.
+그 다음 cell state를 tanh를 거쳐서 -1과 1사이… https://t.co/gQdM1gFv9y이제 old cell state Ct-1을 새로운 스테이트인 Ct로 업데이트하려고 함.
+Ct-1을 ft 로 곱한다.-&gt; Forget
+그리고 it 곱하기 Ct 값을 더한다. -&gt; 이것이 새로운 후보값이 기존값… https://t.co/gxP3u23FhK스텝 2. 새로운 정보가 셀스테이트에 저장될지 결정하는 단계.
+두 단계.
+1) input gate layer 라는 sigmoid 레이어는 어떤값을 우리가 업데이트할지를 결정하는 역할을 함.
+2) tanh 레… https://t.co/sCDBSto2Uw

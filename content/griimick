@@ -1,0 +1,82 @@
+RT @amasad: Everyone's first program is something along the lines of:
+
+```
+name = input('What is your name?\n')
+print('Hi, %s.' % name)
+```…RT @johnrobb: Generational shift. https://t.co/coJeziZ3i2RT @github: Suggested Changes.
+In-line comments and one-click changes.
+
+Now available on GitHub 🙌 https://t.co/IUVA6dbXIXRT @BrendanEich: Summarizing threads on implicit JS conversions:
+1. !!0 =&gt; false, !!1 =&gt; true, !!'' =&gt; false, !!'hi' =&gt; true, IMHO ok.
+2. 1…RT @wesbos: I've always wondered the math behind smooth canvas drawing. This is a great reddit thread + example from @dulnan explaining how…RT @getify: Ugh. Hey @Microsoft just because someone keeps using @Github doesn't mean you've turned them into a Microsoft user, at least no…RT @glnnrys: Introducing Graphpack – ☄️ A minimalistic zero-config GraphQL server
+
+📦 Zero-config
+🚦 Built-in Live reload
+🚨 Super-friendly er…RT @Nitomatta: Let me just show you how beautiful he is with Ivy's move set, I also added Queen music for obvious reasons https://t.co/PeYm…RT @igrigorik: CORS causes a lot of confusion to many web developers. Great overview of why it exists and how it works: https://t.co/OB97fc…RT @patio11: Most software founders, particularly in B2B, need to get radically better at sales. @Steli , who is the best person for explai…RT @rauchg: Would love to Select All &gt; Unsubscribe on Gmail https://t.co/ZGXNMYjS4KRT @dancres: You're all about taking care of the code? How about you take care of the customer &amp; yourself first? You'll likely find you wri…@rynn_apple It's way too much for my brain. Amazing....RT @shrikanth_krish: While Indian English has its share of corruptions, American English is not far behind
+
+One of the most annoying things…RT @mjackson: Web components are a complete waste of time and effort at this point. The champions of web components are too invested to adm…RT @bmeurer: 🎉 And zero-cost stack traces are working for Promise.all() as well. Although the patch is a terrible hack, that needs a lot of…RT @rauchg: base58 by satoshi is brilliant – a gem found inside bitcoin's original codebase
+
+Also check out base58check 
+https://t.co/nOuXs…RT @wesbos: 🔥 Announcing Advanced React &amp; GraphQL! Come and learn to build a fullstack JavaScript online store with me → https://t.co/sgSyO…RT @kentcdodds: Here's a tip to safe yourself some work and headache...
+
+Don't solve a problem you don't have yet, even if you think you ma…RT @css: Ideas for Proximity Feedback with Progressive Hover Effects  https://t.co/DqrDGtPCyd https://t.co/YpTq1Haq0zRT @nodejs: .@Chris_Bailey shares the investment that @IBM has put into #nodejs - its team has contributed 4.5 million lines of code, and m…RT @wesbos: 👌👌👌 CSS GRID 👌👌👌 https://t.co/Rmf7FHmFrzRT @JavaScriptDaily: Baffle.js: A 1.8KB library that scrambles and then reveals text in DOM elements - https://t.co/DK2dLLCijD https://t.co…RT @DonHaci: Making CS better 1 tweet at a time. https://t.co/x0m6xZbj7xRT @css: Animated `mask-image` is a thing. https://t.co/0LZjWMT04V https://t.co/j7hCWjr2jERT @Team_Vitality: We are not perfect, not everything will be perfect. But we won't give up, we won't doubt, we are ready to handle our res…RT @getify: A thread on building and promoting an ever-learning culture in your teams...RT @getify: @the_becca_lee 1. code is all about communicating ideas to other humans. prefer readability over clever writability.
+
+2. the be…RT @Shillyyshally: *GIVEAWAY* I’ve decided to raffle off my perfect condition Huion Inspiroy G10T that I was gifted for review! It’s a wire…RT @acdlite: Advice for new programmers: become comfortable with `git rebase` now instead of waiting a few years to realize how much effort…RT @brian_d_vaughn: I've noticed some confusion about why we're introducing getDerivedStateFromError when we already had componentDidCatch.…RT @farbodsaraf: This incredible animation shows how deep humans have dug https://t.co/RC00aZgnzhRT @kentcdodds: ⚠️ Hey friends! I'm working on a HUGE series of courses (&gt;100 videos total! ~5 hours of dense content) and you don't want t…@satya164 Discord is lot better, but it is for gamers. If you don't mind its casual 'gamer' aesthetics then it will… https://t.co/PaGTv49dfWRT @github: Want to make your Hacktoberfest contributions even more impactful? Join in on the Hacktoberfest Social Impact Challenge! 😍
+http…RT @eggheadio: Deploy a Node.js function to AWS Lambda using the Serverless Framework - #aws lesson by @nikgraf https://t.co/SWcBSboIqIRT @RichRogersIoT: The challenge with adding more engineers to a project. Just moving from 3 developers to 4 doubles the number of lines of…RT @0xca0a: Using this approach for the upcoming documentation overhaul 🙂 https://t.co/cbp9ddL0VlRT @strayyato: TODAY IS THE ONLY DAY YOU CAN RT THIS https://t.co/Yv36qFQP8URT @neoziro: SVGR v3 is out 🎉
+
+⚛️  React.forwardRef
+⚙️  First class support of .svgrrc
+💡  Synchronous API
+🐛  Many bug fixes
+
+🔗 More info: h…RT @dan_abramov: Immer makes reducers easy to read without losing benefits of immutability! https://t.co/4quVAU5kIqRT @umaar: Visual Studio Code can now convert your long chains of Promise.then()'s into async/await! 🎊 Works very well in both JavaScript a…RT @b_fung: JUST IN: As many as 90 million Facebook users are being asked to log back into their accounts after Facebook said 50 million pr…RT @tylermcginnis: ~🔥. You can use default parameters to make a function argument required.
+
+* This may or may not be a bad idea. https://t…RT @dan_abramov: Why does Create React App 2 compile node_modules with Babel, but doesn’t run JSX or experimental transforms like class pro…RT @siba_29: クッパ姫タイムラプス https://t.co/gyVccDn8hTRT @_egoistlily: hmm this is new to me 😂 https://t.co/b2kiXGo6kXRT @styfle: ⚛️ The @reactjs team cut the dependency bloat in v16.5.0 quite a bit! 😮
+
+react-dom@16.5.0 is 2x smaller than the previous versi…RT @mattbierner: #VSCodeTip: use the "declare method" quickfix to quickly stub out methods while writing #typescript.
+
+Also works in #javas…RT @gatsbyjs: 📣 We’re incredibly pleased to announce the 2nd major release of Gatsby! 
+
+- Reduces build times by up to 75%
+- Shrinks JavaSc…RT @csgo_dev: Day five has come to an end and the Champions Stage is set! Beginning September 20th these 8 teams will compete at SSE Arena,…RT @soveryqueer: Every time you say "he or she" you could say "they" instead and
+
+- save 5 characters
+- be inclusive of people of all gende…@G2apEX @fer @gla1ve_csgo @denniscsgod It's time.I added a video to a @YouTube playlist https://t.co/rhACP25bLc ❰CS:GO❱ "Dream Deag" | One last CS:GO FragclipRT @InferNorse: NaVi vs Fnatic https://t.co/8q2qj6illuRT @AshitanoGin: Black Clover #49 had some pretty spectacular fights. Quite the impressive feat if I say so. https://t.co/alhpaanuE3@ringadindons Perfect depiction of insanity. 💉RT @jxnblk: Rebass v3
+- 8 core UI components
+- styled-system v3
+- Built for styled-components v4
+- Works with emotion too
+- Super tiny (~1k…@InferNorse But the kids are busy playing Major  :VRT @db7725206: @AnimeLab Til you realize they're cramming 121 chapters into 12 episodes 😔😔😔@hiberrybottle Too much satisfying to watch.@abhimalav @sashaydhar Still yours is greater than mine.@sashaydhar Not only Rick and Morty, its for every Sitcom out there.I now have a keyboard to play music on. One more reason not to leave my room.@sashaydhar @Uber You bitchy to drivers.RT @elijahmanor: 🆕 Use the New Profiler in React Developer Tools (@ChromeDevTools or @Firefox) to Generate Flame Charts and Interaction Tra…RT @felidadae: [MHA] What if....Casual hero gear fashion line.... ✨🔥✨ #bnha https://t.co/8Lko6juykWRT @brian_d_vaughn: React 16.5 has just been released 😎 🎉
+
+Look for a blog post about using the new DevTools profiler soon!@sel3phi He is the best.RT @JavaScriptDaily: Microjob: A Tiny Wrapper for Node.js Worker Threads - https://t.co/nB1lSeQ8O1 (Makes Node 10.5+'s experimental worker…RT @YonkouProd: The Promised Neverland is in its final arc. I gotta say I respect the creators for sticking to the story they want to tell…RT @dwllns: https://t.co/xsytNIlHZp@tomi So is CS:GO.RT @yxngmus: Envy died envying humans
+Sloth died of effort 
+Greed died satisfied 
+Wrath died peacefully
+Lust died to a man who showed no lu…📷 Merry Bad End | Reference ArtReference : https://t.co/HO9kcjlLDh https://t.co/XtA7bY207n@GameSpot @aqual3oRT @9baMelo: https://t.co/WXBD1BOvZ2RT @addyosmani: .@ChromeDevTools can now pin live expressions to the top of Console to monitor values in real-time 👌
+
+Read more https://t.c…RT @ryanflorence: ♿️ Announcing Reach UI 😄
+
+The Accessible Foundation for React Apps and Design Systems
+
+- Dropdown
+- Modal
+- SkipNav
+- Vis…@drsIecter @vorefather @sashaydharRT @GooglePayIndia: Tez has become #GooglePay, and we've been emoji-nal. Here's everything you need to know about this simple and secure pa…RT @left_pad: Done. Babel 7 is Released 🎤
+
+https://t.co/zQoeCiZN6p https://t.co/gUsILuQBnKRT @jordwalke: FastPack is a project to keep your eye on: https://t.co/RUANxfmb7X
+
+Ultra fast JS bundling powered by native @reasonml and O…RT @LamboKody: Me after getting my usual 5 likes from the same 5 people  https://t.co/5Mft0vxqICGenius. https://t.co/yssrQfSjqQRT @jasonlaster11: The new scope and variable mapping in @FirefoxDevTools makes debugging apps built with @webpack 10x more enjoyable 🦊 🛠️…RT @pkjd818: "Tokyo Ghoul:re" S2 anime CM. Series begins October https://t.co/SlrbYOUAOP https://t.co/QuYFhHZQIhRT @sharifsbeat: Three hours of unfocused work can lead to multiple hours of rework, which could have been avoided but not working these th…RT @nyaponi: 涙 https://t.co/w0NQ9CricURT @acdlite: How to Code Split with React Suspense
+
+Coming soon to open source.
+
+We're already shipping a version of this to Facebook emplo…RT @sharifsbeat: Interesting how we can transform an array to an object in JavaScript.
+but thinking about it, an array is of type object, s…RT @98kumori: 伊佐奈とサカマタ
+死柄木と黒霧
+治崎と玄野
+の、関係性が好きです https://t.co/BvpLr8CyfwRT @igrigorik: starting to have doubts about nginx implementation and defaults..
+
+1) default gzip compression level is set to 1
+2) HPACK im…@sashaydhar Aye aye captain. Arigathanks Gozaimuch.@sashaydhar I am assuming you liked it.  Paprika is the only one I have seen. I still have to dive in the ocean Ani… https://t.co/18qVoYn77HRT @gilyun_: 금빛 바다
+Golden sea https://t.co/96b7yC1X6D@sashaydhar @facebook #DeleteFacebook@sashaydhar Guess which Pokemon was diagnosed with the same ? https://t.co/w7TcfJoe2kRT @broccolini: Thanks for having me @zeithq :) I had a great time! Here are the slides from my talk: https://t.co/eChUbxJuZl
+
+(built with…RT @ItsMeDannyZ: Just published my highly detailed tutorial on how to build a Bar Graph with React. Great resource for beginning and interm…

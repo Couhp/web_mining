@@ -1,0 +1,88 @@
+RT @math_rachel: My @TEDxSFbay talk is now up!  What scares me about AI, what excites me, how my personal journey led me to the work I do n…RT @sachinrekhi: Never agreed with Steve Job's espousing the axiom that you should live each day like it's your last. The most rewarding th…RT @boredyannlecun: Many people are not aware that most elementary operations on all numbers (multiplication &amp; addition) are simply special…RT @Montreal_AI: Machine Learning for Visualization
+
+By Ian Johnson : https://t.co/sXKumLvDmz
+
+#100DaysOfMLCode #ArtificialIntelligence #De…RT @jeremyphoward: Terrific interview of @bhutanisanyam1 and fellow @fastdotai alum (and now @OpenAI fellow) @mcleavey discussing how she w…RT @jasonfried: You can’t create a company culture. A culture always exists, even before a company is officially formed. You can only adjus…RT @ValaAfshar: Be humble. You may be wrong.
+Be hard working. You may be luckier.
+Be kind. You may be remembered. 
+Be generous. Others may…RT @MarkNeumannnn: Great tutorial for using @ai2_allennlp from Python rather than using our command line tools. This makes it really clear…RT @jeremyphoward: Thanks to @GuggerSylvain you can now use data augmentation in fastai v1 even with keypoints, bounding boxes, and much mo…RT @Reza_Zadeh: Best paper award at #recsys2018 main idea: Fusing new content generation &amp; recommendation. eg. what *new* movies should be…RT @karpathy: good post &amp; links! Touches on gradient accumulation, gradient checkpointing (no, not the normal checkpointing), the nearly un…Awesome Git Recipes: https://t.co/UVXHVpYdvR.  Bookmark it.  My goto resource now before heading to Stack Overflow. Thank you @k88hudsonRT @kennethreitz: Here's how to mount a Flask app (WSGI) into your Responder (ASGI) app: https://t.co/p2tvpMyx0nRT @ml_review: A Closer Look at Spatiotemporal Convolutions for Action Recognition
+By Facebook @ylecun
+
+Empirical study of different spatio…RT @jeremyphoward: Excited to launch this today with @awscloud: "The new https://t.co/GEOZuodrZj research datasets collection, on AWS Open…RT @wadhwa: Really sad. All the money in the world can't save us from death, disease, and suffering. 
+
+What matters the most, and what we w…RT @Reza_Zadeh: Rest in peace Paul Allen. May your institutes continue your legacy. https://t.co/N5u12aAYZz and https://t.co/fAWSQiX19WRT @ml_review: Learning a Shared Shape Space for Multimodal Garment Design @sa2018tokyo
+By @AdobeResearch @uclmr
+
+Given an input sketch, ne…RT @seb_ruder: Multi-Task Learning as Multi-Objective Optimization (NIPS 2018): This is a pretty cool paper that casts MTL as finding a Par…RT @PyTorch: MedicalTorch by @tarantulae : a medical imaging framework implements an extensive set of data loaders and pre-processors for m…RT @seb_ruder: Good practices in Modern Tensorflow for NLP: A notebook of best practice code snippets covering Eager execution, https://t.c…RT @jeremyphoward: Every week I get asked "what's https://t.co/GEOZuodrZj's business model?"
+
+Our business model is: we spend our personal…"I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) delive… https://t.co/296PWiIwV0RT @currankelleher: I just published ✨"VizHub 1.0"✨
+A new online platform for teaching &amp; learning #dataviz with #d3js &amp; #javascript
+https:/…RT @pwang: "Instead of Matlab, everyone uses Python now" -- CEO of @nvidia, name dropping @teoliphant @wesmckinn et al https://t.co/ckPvlnH…RT @allen_ai: The Allen AI Young Investigator program at #AI2 allows postdocs to pursue independent research along with collaboration on AI…RT @iamtrask: If you're interested in doing something for climate change - try being a #vegetarian.
+
+You'll live longer, reduce your carbon…From Academia to Industry https://t.co/EaPAfqJROQRT @ValaAfshar: Dear high school kids, learn:
+
+1 public speaking
+2 writing well
+3 to teach (see 1-2 above)
+4 critical thinking
+5 good manne…RT @ValaAfshar: A healthy list:
+
+1 Get more sleep
+2 Make time to exercise
+3 Drink more water
+4 Eat less sugar
+5 Stay teachable
+6 Read and w…RT @jlowin: Startup lesson #7:
+
+A startup is just an expensive hypothesis test. 
+
+Don't be a statistic. Watch out for:
+
+- Type I error: you…RT @ValaAfshar: Career advice:
+
+1 you are not your job
+2 I can &gt; IQ
+3 don't speak poorly about others
+4 there is no career ladder
+5 know wh…RT @lnsmith613: Thanks for the reminder of this valuable paper.  I just reread the paper and realized that their momentum correction motiva…RT @kdnuggets: 5 Reasons Logistic Regression should be the first thing you learn when becoming a Data Scientist https://t.co/lobXcyIzpj htt…RT @the_antlr_guy: Released dtreeviz 0.2.2 decision tree visualization lib; fixes issue with complex feature names. pip install -U dtreeviz…RT @ai2_allennlp: AllenNLP v0.7.0 is now released!
+
+https://t.co/ZVvsgdAJVH
+
+Headline feature: we now have models and dataset readers for s…RT @GuggerSylvain: Fastai v1 is now officially live. First library to provide a unified and simple API for applying DL to vision, text, tab…RT @AndrewYNg: Deep Learning is getting really good on Big Data/millions of images. But Small Data is important too. Am seeing many excitin…#1 on HackerNews - "Hire people who aren't proven" by @leonardofed - https://t.co/7GNnhEK1nLRT @rdpeng: I’ve put together a bunch of my writing on data analysis into a new book. I plan to add to it over the next year but it’s mostl…RT @the_antlr_guy: This is *actually* how to visualize decision trees. Article and code written by me, @groverpr4. Awesome seminar by @Edwa…RT @benkesslen: A good day to remember that 76% of U.S. senators and congressmen and 85% of Supreme Court justices have been in fraternitie…RT @PyTorch: Github Engineering experiments with Semantic Code Search: search for code snippets using natural language.
+Built on top of fas…RT @jxxf: Here's why Stripe did so well:
+
+* low barrier to entry (no "fill out a 23-page merchant form")
+
+* understood audience extremely w…RT @Reza_Zadeh: When you use a 10 layer Deep Neural Network where Logistic Regression would suffice https://t.co/ob4G0UbSAzRT @jeremyphoward: Proud to be launching "Introduction to Machine Learning for Coders" today. If you're looking for a modern, code-first, o…RT @jeremyphoward: Amazing library, and seriously deep dive in the article. This is what we're using for tree viz in our upcoming book (htt…RT @GoogleForEdu: Align your students’ passions with skills of the future. With Google’s free CS First curriculum students build confidence…RT @iamtrask: Optimizers like SGD, Adam, and Adagrad are very mysterious things. @distillpub has created #interactive #visualizations which…RT @AndrewYNg: Just finished writing final few chapters of Machine Learning Yearning book draft, on how to organize and strategize your ML…RT @Suhail: How to be a good VC to your founders: 
+
+(1) Get out of their way &amp; give them space.
+(2) When they need you, be available asap.…RT @iamtrask: This series of Jupyter Notebooks is a VERY nice step-by-step introduction to data science and machine learning. If you're jus…RT @radekosmulski: Here are two great resources that show just how deep the rabbit hole on how code can be written can go
+
+1. https://t.co/…RT @math_rachel: Deadline to apply for https://t.co/ktYtgBpxGr diversity fellowships is in 1 week. Please share: https://t.co/Rn2rFU30KTRT @radekosmulski: On the importance of rest.
+
+This excerpt comes from https://t.co/Nx6au9uDtu by @barbaraoakley. It is a wonderful little…RT @onnxai: A tutorial for your Tuesday: convert a model built in @ChainerOfficial into the ONNX format so it can be deployed across the ma…RT @AndrewYNg: Just read this cool paper: Neural net pretraining keeps improving when you train on an unprecedented 3.5 billion (that's rea…Check it out! I donated to 'Help Smitha Fight MS' -  https://t.co/lmWke9IstU via @gofundmeRT @fchollet: Check out this excellent guide to text classification from Google. Covers important best practices and rules of thumb, includ…RT @TensorFlow: A new example of Pix2Pix (image to image translation) using tf.keras and eager execution, by @yashk2810! 
+
+Check it out → h…RT @Suhail: Most founders starting an AI focused co have to cite their deep expertise (eg have a PhD). It reminded me of the history pre pe…RT @aureliengeron: Variable scopes and the whole tf.get_variable() mess is going away! To share variables, just reuse #Keras layers, it's s…RT @sachin_rt: Winners are not people who never fail but people who never quit. Missed the Olympic Gold by a whisker, suffered from an inju…“Report on Text Classification using CNN, RNN &amp; HAN” by Akshat Maheshwari https://t.co/K15ROGi3kNRT @GuggerSylvain: New fastai_v1 progress bar with cool fancy features 😎 https://t.co/i5Q0FZUPAh“9 Things You Should Know About TensorFlow” by @quaesita https://t.co/rbDycVn289Next time a company sends you a rejection because you are not a "Culture Fit", do them a favor and send them this a… https://t.co/acC8CGtLroIt’s easy to become obese in America. These 7 charts explain why. https://t.co/q280ctXLUZRT @ValaAfshar: Distance yourself from people who:
+
+1 speak poorly about others
+2 have problems for every solution
+3 enjoy complaining 
+4 a…RT @creativemorning: The Surprisingly Positive Effects of Being a Pessimist https://t.co/1MPfsgpS6jRT @fchollet: Too many people in the field of AI are chasing the latest fashions. My advice: keep your eyes on the fundamentals, focus on t…RT @GuggerSylvain: If you want to learn how to train a model in FP16, why it's so much faster and the tricks to make it work, this video is…RT @MrFilmkritik: Hillary Clinton is 71 and people tell her to knit. 
+Nancy Pelosi is 78 and people are telling her to go away.
+
+Mitt Romne…RT @AustenAllred: Here’s how to be good at Twitter:
+
+1. Read a lot
+
+2. Remove any filter and whenever you think something interesting - jus…RT @IAmMarkManson: Choose how you are willing to suffer. Because that's the hard question that matters.RT @rsalakhu: Slides from our #JSM2018 Introductory Overview Lecture on The Deep Learning Revolution with @chrmanning 
+https://t.co/UObUTVQ…RT @DeepMindAI: On understanding the relationship between visual events and their associated sounds: https://t.co/cFiXyd5OLl https://t.co/w…RT @HEPfeickert: Now thanks to the awesomeness of @mybinderteam you can run ALL of the Jupyter notebooks in @AlfredoCanziani's @PyTorch #De…1% Better Every Day - by James Clear - Make Good Behaviors Easier and bad ones harder. https://t.co/yseZ1x9spp“The Purpose Of Life Is Not Happiness: It’s Usefulness” by @DariusForoux https://t.co/FuJnmSQ7CLRT @jeremyphoward: Very nice in-depth tutorial for NLP transfer learning, including code snippets from the fastai library showing key steps…RT @ValaAfshar: What I love about this story is it reminds me that one person can absolutely make a big difference. 
+
+In 1978, Jadav Payeng…RT @randal_olson: The long-awaited "Visual Introduction to #MachineLearning Part II" is now out, focusing on model tuning and the bias-vari…RT @conormacd: ML in real life vs. ML on Kaggle:
+*Kaggle*: AUC = .95, "Sweet!!! 😃"
+
+*Real life*: AUC = .95, "WTF have I done wrong this tim…RT @BaiduResearch: Our team is open sourcing NCRF, a #DeepLearning based algorithm for more accurate detection of tumor cells. Read more ab…RT @realpython: Face Detection in Python Using a Webcam -- https://t.co/zMSoPOx6acRT @MIT_CSAIL: #mondaymotivation (v/@codewisdom) https://t.co/hGfPOxFaliRT @OpenAI: Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams (including a semi-pro team) at Dota 2:…RT @ajmooch: SMASH: One-Shot Model Architecture Search through HyperNetworks: https://t.co/Z0L7dwWUuA. My latest project. https://t.co/D2aL…RT @ajmooch: DARTS: Differentiable Architecture Search by Hanxiao Liu, Karen Simonyan, and Yiming Yang.
+
+They operate on a continuous relax…RT @karpathy: Scalable Deep Reinforcement Learning for Robotic Manipulation https://t.co/4exGdTMSLM hand-designed init -&gt; 580k grasp attemp…RT @karpathy: most common neural net mistakes: 1) you didn't try to overfit a single batch first. 2) you forgot to toggle train/eval mode f…RT @ericjang11: New blog post in which I share my thoughts on the ICRA conference &amp; state of robotics research! https://t.co/Qde92HjXF0RT @ylecun: "Clever machines", as The Economist calls them, will not replace radiologists, any more than auto ated teller machines replaced…RT @math_rachel: learn deep learning: https://t.co/MhwV380FWg
+computational linear algebra: https://t.co/CY7Gu8IXmZ
+data science career adv…RT @ShirinGlander: @twimlai #sketchnotes on Practical Deep Learning: great podcast in which @math_rachel &amp; @samcharrington talk about https…RT @AndrewYNg: Technical details on our Deep Learning+ECG (detecting irregular heartbeats/arrhythmia) work: https://t.co/CH2qKIUvD0 https:/…RT @awnihannun: How I structure most of my machine learning projects. Looks complicated, but has worked well for me. Flexible/extensible fo…RT @DrHughHarvey: Open source, cloud, deep convolutional neural networks for chest X-ray triage.
+Trained in 6 hours on publicly available d…“🚀 100 Times Faster Natural Language Processing in Python” by @Thom_Wolf https://t.co/Kj9Sjyu9jd

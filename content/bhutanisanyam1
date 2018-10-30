@@ -1,0 +1,86 @@
+RT @jeremyphoward: Excited to launch this today with @awscloud: "The new https://t.co/GEOZuodrZj research datasets collection, on AWS Open…RT @omarsar0: Medical Imaging Analysis using @PyTorch and MedicalTorch - by @dair_ai https://t.co/tzVMwG098yRT @olebegemann: Today I learned that the reason many people pronounce SQL as “Sequel” is probably because that was the original name! SEQU…@AnimaAnandkumar @jeremyphoward @fastdotai Another @nvidia event in Chennai, this month also sold out in almost under a day!@jeremyphoward It'll be a true honor for us. 🙂Perfectly distilled NLP news in a single newsletter. 
+A must-read! https://t.co/mJBjJlfdSI.@jeremyphoward You're a hero to the ML community in India. https://t.co/qRtrjrY8gEAn under-appreciated technique: Using the same username on every slack and every community along with the same prof… https://t.co/f85TgPqsDvRT @jeremyphoward: Here's a handy summary of the dependencies between the main modules in fastai v1.
+h/t @GuggerSylvain for getting graphvi…RT @CodeWisdom: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." -…RT @CodeWisdom: "What one programmer can do in one month, two programmers can do in two months." - Fred Brooks@omarsar0 A few more cool things that we usually miss: 
+- Setting custom sub-title and description. Otherwise, it p… https://t.co/92EPE4yjTPRT @rasbt: Considering all the Python books on scientific computing, data science being written these days, I think this is really an under…RT @DickeySingh: If you have not read @goodfellow_ian’s Deep learning book and would like to read it with others, see this https://t.co/xtI…RT @jeremyphoward: Want progress bars in a notebook that also show a training graph updating in real time? And console support too?
+With ou…RT @goodfellow_ian: @parthi292929 @bhutanisanyam1 @AndrewYNg @hackernoon @andrewgelman might tell you you don't need to learn hypothesis te…RT @viglovikov: This is a really good class in traditional #MachineLearning 
+
+After taking it you will have much fewer problems with your p…RT @jeremyphoward: Every week I get asked "what's https://t.co/GEOZuodrZj's business model?"
+
+Our business model is: we spend our personal…"Start by learning the basics really well [..] Most advanced research projects require you to be excellent at the b… https://t.co/aTVidLE6Br@shang_vikas Glad it helped! :DI’m a top writer in AI on @Medium! https://t.co/FYPf1OWKCr
+Thank you everyone, for reading my posts!
+
+I started las… https://t.co/vfb85lKJmeThe most respectable part about #PTDC18 was that all the core devs, even @soumithchintala requested everyone to che… https://t.co/TLxwYpYtLe- How @TensorFlow 2.0 and @PyTorch 1.0 final releases compare.
+I wasn't sure about PyTorch earlier but the Script M… https://t.co/Ij6ToRW83RThings I'm excited about:
+- @fastdotai V_1! Released just in sync with @PyTorch 1.0 preview.
+- The official 1.0 release.Another great but brief mention of Software 2.0 by @karpathy.
+To summarise it, Jérôme Pesenti: "ML today is where S… https://t.co/hXUoIWuPJ0Discussion on Future of AI:
+(Must watch) @clattner_llvm, @jeremyphoward, Noah Goodman, @jiayq provided many great i… https://t.co/TXvSbBfvcMEducation:
+@udacity: @StuartFrye “You don’t have to Teach PyTorch and its syntaxes, you can just focus on the more… https://t.co/GrEX893jJ4Enterprise:
+@NvidiaAI: @ctnzr Super sampling
+Vid2Vid
+Edge to faces
+Pose to People
+Frame Prediction
+Unsupervised Lan… https://t.co/g1Dr6ylDRBMore Academia: (all in @PyTorch)
+@CarnegieMellon: @zicokolter: QPTH:
+"Solving Complex differentiable layers in Deep… https://t.co/nzgyFErvE4Academia:
+@AnimaAnandkumar: Showcased their cool Neural net lander @Caltech and other great research (tensorly, Sig… https://t.co/JuP6acFOiNCloud Partners:
+@awscloud (@sunilmallya) announced support on Sagemaker.
+@Microsoft: "Integration into all of their… https://t.co/0PSfsYtrdx.@facebookai FAIR: talked about @PyTorch Translate, PyText and shipping code into production @facebook.
+@tydsh spok… https://t.co/pzUv8DJBaZ1.0: 
+Torch.jit compiler 
+"script mode" for production: Flexibility of Eager and opt-in for script mode. 
+C++ Front… https://t.co/zZ8NkCegBBA Brief Overview of @PyTorch 1.0: https://t.co/OIwyOssyWV @hackernoon 
+Summary of #PTDC18 and @PyTorch 1.0 features in thread:RT @NirantK: Help us find the best tools for working in Tamil and Telegu! NLP Libraries, research papers - everything welcome! 
+
+I'll contr…@sravsatuluri @fastdotai I'd love to meet up, I'll be in Chennai/Hyderabad during that period.@tkasasagi You are not alone!RT @universal_sci: Mechanical binary counter. (By Mathmo14159) https://t.co/Dy9GnsZpT0Training the first examples in @fastdotai v1
+About, an year ago, I would struggle with installations! 
+
+The docs/ju… https://t.co/KD6TDclbwVRT @math_rachel: Be sure to check out the fastai v1 docs:
+https://t.co/fSBTUKFNyK
+
+The docs are all built from notebooks, so you can try th…RT @math_rachel: Excited about the release of fastai v1! fastai is the 1st deep learning library to provide a single consistent (&amp; state-of…RT @jeremyphoward: After 2 years of development, we've just launched fastai v1, the first deep learning library with a simple consistent AP…https://t.co/Yxq5KSc7KI
+@fastdotai V1 launches just in-sync with @PyTorch 1.0 release!
+
+I've never been more excite… https://t.co/lnhttRh1EAThe livestream of the conference starts in an hour. Check here: https://t.co/sBcnTzrsEU https://t.co/WqhYzdtvQLRT @jeremyphoward: Great to see this call for more voices in the NLP community from @seb_ruder (and lots more interesting insights in this…@jeremyphoward @seb_ruder Making Research uncool again 😀@kikExclusive @OpenFuture_ @minesrib Congratulations!@seb_ruder @fastdotai Thank you so much for doing the Q&amp;A. 
+I'm sure everyone from the @fastdotai community will fi… https://t.co/eFiR1MW6sd"Don’t let anyone tell you that you can’t do this (DL). [..]  Don’t think you need massive compute to work on meani… https://t.co/XYQYfiepkVWho else is excited about @fastdotai? https://t.co/mNaow7z55jRT @RichardSocher: Amazing to chat and meet with Prime Minister of Singapore Lee Hsien Loong. Incredible how well versed he is on all thing…RT @iJacksonIsaac: - Found a really interesting interview of @StackNet_ by @bhutanisanyam1. Great tips for a beginner and experienced perso…"Dedicate time to learning about data science and actually doing “kaggling”. You will eventually see results, soone… https://t.co/8oVYJmd8H1@_doc_ai @jeremyphoward @PyTorch @PyTorch 1.0 is coming! :D
+So is https://t.co/3a6OhAK1BJ v_1"Don’t be shy, just try kaggle. [..] But be prepared to have your ego hurt because Kaggle is very competitive ;) An… https://t.co/4yqvGuCNEyRT @viglovikov: I would like to announce that after a few months of hard work we (@albuslaev @creaf @cvtalks @viglovikov) are releasing ima…RT @math_rachel: Interested in the newest Practical Deep Learning for Coders course, but not in the Bay Area? Here's the info on https://t.…@goodfellow_ian @jeremyphoward @avibryant Jeremy did mention in the forums to avoid too much theory when we (beginn… https://t.co/6E6c0KRBJS"1) Your success isn't dependent on others and vice-versa.
+2) Never be shy/afraid to ask even the most basic things… https://t.co/7aNdHK55z1RT @jeremyphoward: @avibryant I greatly appreciate @goodfellow_ian's work too, and recommend his book and papers a number of times in our c…@cedric_chee Good Luck!Over the past two years, along with my undergrad studies, I've completed the Following @udacity Nanodegrees:
+
+Compu… https://t.co/Y9WMTn15tR"MOOCs" have got a second wind"  
+https://t.co/9tEoOBOwgX
+
+Even though my our (Indian) education system isn't very… https://t.co/oRNBrTJdq3I was one of the First to jump on board of the @udacity Nanodegrees. 
+
+It's thanks to the online learning that I've… https://t.co/PtejgWexIv@cedric_chee @fastdotai Congratulations! 🙂RT @cedric_chee: State of the art in Malay language modelling using ULMFiT approach achieved 29.30 perplexity &amp; 41% accuracy on Wikipedia c…@tuatini_godard @PyTorch Thanks!RT @tuatini_godard: @bhutanisanyam1 @PyTorch branch `1.0vbump` available :) https://t.co/qBucryPuKZ.@PyTorch I'm guessing 1.0 release is on the horizon
+😀 https://t.co/FuQGF2GUDqSo, my plan to beat @dqmonn (the founder @remoteML) on the Leaderboard worked! 😎
+Come, beat my score by joining and… https://t.co/dt4m8JXPMgRT @WalterReade: My response to: "How was your first Kaggle competition?"https://t.co/Canut9SFkBRT @TensorFlow: Introducing the TensorFlow Model Optimization Toolkit! It can result in up to 4x compression and 2x faster execution. 
+
+Lea…RT @matplotlib: Happy to announce that Matplotlib 3.0 is up on pypi and ready for use!
+
+Matplotlib is Python 3 only
+
+The v2.2.x LTS branch…RT @KylePlantEmoji: Professor: most of you won't pass this course
+
+Me: cool so you're like, Real shitty at your jobRT A Big Life advice by @WalterReade https://t.co/90yri4Xn0B@tkasasagi Yellow Doraemon? 🤔RT @andrey_kurenkov: "Jeff [Dean] expressed that he’d rather read ten papers superficially than one paper in-depth to get as much inspirati…@shang_vikas @aditya_soni2k17 That'd be CUDA@4shutoshPathak @goodfellow_ian Likewise, I got it for the same reason 🙂@4shutoshPathak @goodfellow_ian If you're comfortable with reading the HTML version, it's freely available here: https://t.co/oN0xkx5JyK@BerredaiR @goodfellow_ian There's just one secret:
+Apply. ;)Spent the Savings from my first Deep Learning internship on The DL Bible. 
+Thank you for creating this gem… https://t.co/5Li1DQJvGzMy Experience with Online Learning, 
+
+https://t.co/NySFm7gnLe
+
+Check out the post by @IndiaToday@subalalithaCN Thank you so much for the kind words and wishes Ma'am 🙂RT @ykashnitsky: Releasing https://t.co/CZywqc0wsQ, a.k.a. Open Machine Learning Course by OpenDataScience. There are lots of assignments a…RT @jeremyphoward: @madavidj @radekosmulski https://t.co/aNHjXFrj9MShould you @kaggle?
+"Python in breakfast, Deep Learning in Lunch and Machine Learning in dinner." -
+@A_K_Nain 
+
+https://t.co/0kKohntjzaRT @NipsConference @faraz_r_khan https://t.co/DCI2E2y5b3@DavidSmooke Thank you! 🙂I'm a Final Year Undergrad,  I go as a Full-Time ML and CV Practitioner and a Part-Time Student. 
+I'm also known fo… https://t.co/7iz5JD7w7cHere's my Story:
+https://t.co/1YqgcEKRhN
+
+I recently had the honor of talking about How and what I do and my with… https://t.co/9mMwbLWl4vBlog: https://t.co/hXRwBEVwvGCrazy Update: My BlogPosts at @hackernoon crossed 120k+ views today. 
+I had started writing technical articles just… https://t.co/x8FW5eQHgC"Let the Age of AI Based Dance Videos begin!" 
+- @karoly_zsolnai 
+https://t.co/jC4i0Ezood@YifanX @kaggle Congratulations!Congratulations Grandmaster! 🙏🙂
+@mikb0bInstalling @opencvlibrary on Mac OS Mojave Tutorial by @RKBhalodia_927 is now live at init27 Labs.
+Check it out:
+https://t.co/ZU50o68Zle@joelgrus I'm waiting for someone to start a Vim Vs Emacs war on here.@kikExclusive @NetflixES This is what happens when you make the Data Science Intern do Subtitles.I'm Super Excited to be invited by @Inc42 and @PayPalIN to talk about my DL, CV Work in a Live Webinar. 
+If you're… https://t.co/VXwnn5seVm
